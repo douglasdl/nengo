@@ -1,0 +1,74 @@
+[
+  {
+    "era": "Early Japan",
+    "eraJapanese": "古代",
+    "startDate": "660-01-01",
+    "endDate": "710-12-31"
+  },
+  {
+    "era": "Nara",
+    "eraJapanese": "奈良",
+    "startDate": "710-01-01",
+    "endDate": "794-12-31"
+  },
+  {
+    "era": "Heian",
+    "eraJapanese": "平安",
+    "startDate": "794-01-01",
+    "endDate": "1185-12-31"
+  },
+  {
+    "era": "Kamakura",
+    "eraJapanese": "鎌倉",
+    "startDate": "1185-01-01",
+    "endDate": "1333-12-31"
+  },
+  {
+    "era": "Muromachi",
+    "eraJapanese": "室町",
+    "startDate": "1336-01-01",
+    "endDate": "1573-12-31"
+  },
+  {
+    "era": "Azuchi-Momoyama",
+    "eraJapanese": "安土桃山",
+    "startDate": "1573-01-01",
+    "endDate": "1603-12-31"
+  },
+  {
+    "era": "Edo",
+    "eraJapanese": "江戸",
+    "startDate": "1603-01-01",
+    "endDate": "1868-12-31"
+  },
+  {
+    "era": "Meiji",
+    "eraJapanese": "明治",
+    "startDate": "1868-01-25",
+    "endDate": "1912-07-29"
+  },
+  {
+    "era": "Taisho",
+    "eraJapanese": "大正",
+    "startDate": "1912-07-30",
+    "endDate": "1926-12-24"
+  },
+  {
+    "era": "Showa",
+    "eraJapanese": "昭和",
+    "startDate": "1926-12-25",
+    "endDate": "1989-01-07"
+  },
+  {
+    "era": "Heisei",
+    "eraJapanese": "平成",
+    "startDate": "1989-01-08",
+    "endDate": "2019-04-30"
+  },
+  {
+    "era": "Reiwa",
+    "eraJapanese": "令和",
+    "startDate": "2019-05-01",
+    "endDate": null
+  }
+]
